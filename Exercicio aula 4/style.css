@@ -1,0 +1,40 @@
+.table{
+
+    text-align: center;
+    border-collapse:collapse;
+    width:500px;
+    height:300px;
+    border-top: solid 2px blueviolet;
+    border-bottom: solid 2px blueviolet;
+}
+.linha1{
+    width:500px;
+    height:75px;
+    border-bottom:solid 2px cyan;
+
+}
+.linha2{
+    width: 500px;
+    height: 75px;
+    border-bottom: solid 2px cyan;
+    
+}
+.linha3{
+    width: 500px ;
+    height: 75px;
+    border-bottom: solid 2px cyan;
+}
+.linha4{
+    width: 500px;
+    height: 10px;
+    border-bottom: solid 2px blueviolet;
+}
+.cabecalho{
+    border-left: solid 2px gray;
+    border-right: solid 2px gray;
+    color: indigo;
+}
+.coluna{
+    color: lightcoral;
+}
+
