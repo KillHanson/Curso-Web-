@@ -1,0 +1,52 @@
+.div_botao {
+    width: 100px;
+    height: 50px; 
+    line-height: 30px;
+    background-color: red;
+    text-align: center;
+}
+/* Muda a cor quando seleciona com o mouse*/
+.div_botao:hover{
+    background-color: yellow;
+}
+/* Deixar lista na horizontal*/
+li{
+    Float: left;
+    list-style-type: none; 
+}
+/* Remover o sublinhado*/
+a{
+    text-decoration: none;
+}
+
+/* Classe DIV menu*/
+.div_menu{
+    width: 600px;
+    height: 50px;
+    border: solid 3px black;
+}
+
+/* Classe DIV CONTEUDO*/
+.div_conteudo{
+    width: 600px;
+    height: 400px;
+    border: solid 3px black;
+}
+
+
+/* classe div roda pé*/
+.div_rodape{
+    width:600px ;
+    height: 50px;
+    border: solid 3px purple;
+}
+
+th{
+    border: 3px solid green;
+
+
+}
+ 
+
+
+
