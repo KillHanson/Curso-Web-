@@ -1,0 +1,15 @@
+.caixa_rosa{
+    background-color: blanchedalmond;
+    border: solid 1px ;
+    font-size: 18px;
+}
+.caixa_amarela{
+    background-color: yellow;
+    border: solid 1px ;
+    font-size: 18px;    
+}
+.caixa_azul{
+    background-color: rgba(0, 0, 255, 0.329);
+    border: solid 1px ;
+    font-size: 18px;
+}
