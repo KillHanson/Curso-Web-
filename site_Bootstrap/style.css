@@ -1,0 +1,35 @@
+.container-fluid{
+    padding:0px;
+}
+
+.rol{
+    --bs-gutter-x: 0rem;
+}
+
+.sessao_cinza{
+    background-color:#f7f7f7 ;
+    padding-top:20px ;
+    padding-bottom: 20px;
+}
+
+.sessao_colorida{
+    background-color: rgba(255, 166, 0, 0.568) ;
+    padding-top:20px ;
+    padding-bottom: 20px;
+}
+
+.caixa_servico{
+    background-color: #f7f7f7;
+    min-height: 40px;
+    margin: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(137, 43, 226, 0.322);
+}
+
+.card-img-top{
+    min-height: 200px;
+    max-height: 200px;
+}
