@@ -33,3 +33,20 @@
     min-height: 200px;
     max-height: 200px;
 }
+.sessao_colorida_footer{
+    background-color: coral ;
+    padding-top:20px ;
+    padding-bottom: 20px;
+}
+
+.caixa_servico_rodape{
+    background-color: blue;
+    min-height: 40px;
+    margin: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(137, 43, 226, 0.322);
+}
+
