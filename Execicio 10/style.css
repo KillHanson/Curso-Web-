@@ -1,0 +1,24 @@
+.div_adocao{
+    height: 100px;
+    width: 100%;
+    font-size: 60px;
+    background-color: coral;
+}
+
+.container-fluid{
+
+    padding:0%;
+    text-align: center;
+}
+
+.banner_padrao{
+    height: 400px !important;
+    object-fit: fill;
+}
+
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: 0.5rem;
+    overflow: auto;
+}
